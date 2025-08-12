@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 28 17:02:55 2023
 
-@author: Éric
-"""
 
 
 import math
@@ -27,3 +22,4 @@ print(f"Nombre de séquences possibles : {sequences_possibles}")
 probabilite_sequence = probabilite_sequence_pour_k_elements(n, k)
 # Utilisation d'un format personnalisé pour l'affichage
 print(f"Probabilité d'obtenir une séquence prédéfinie : {probabilite_sequence:.6e}".replace('e', ' x 10^'))
+
