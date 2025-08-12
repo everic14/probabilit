@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 28 08:56:57 2023
 
-@author: Éric
-"""
 ### Probabilité binomiale X <= k
 
 from math import comb
